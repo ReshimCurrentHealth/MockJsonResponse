@@ -1,0 +1,18 @@
+[
+   {
+      "PULSE_RATE":{
+         "name":"Pulse Rate",
+         "value":"150",
+         "img":"pr_heart",
+         "unit":"bpm",
+         "generatedAt":"1:55pm, 09/29/22"
+      },
+      "BP":{
+         "name":"Blood Pressue",
+         "value":"125 / 80",
+         "img":"blood_drop",
+         "unit":"HG/mg",
+         "generatedAt":"1:55pm, 09/29/22"
+      }
+   }
+]
