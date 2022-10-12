@@ -1,12 +1,30 @@
+
+
 {
-   "page":1,
-   "results":[
+   "vitals":[
       {
-         "_id":"JIk3cbQ8s",
-         "author":"Michael Jordan",
-         "length":224,
-         "dateAdded":"2022-07-06",
-         "dateModified":"2022-07-08"
+         "factName":"PULSE_RATE",
+         "displayName":"Pulse Rate",
+         "img":"pr_heart",
+         "value":"150",
+         "unit":"bpm",
+         "generatedAt":""
+      },
+      {
+         "factName":"BLOOD_PRESSURE",
+         "displayName":"Blood Pressure",
+         "img":"blood_drop",
+         "value":"125 / 80",
+         "unit":"HG/mg",
+         "generatedAt":""
+      },
+      {
+         "factName":"SPO2",
+         "displayName":"SPO2",
+         "img":"air_whoosh",
+         "value":"90",
+         "unit":"%",
+         "generatedAt":""
       }
    ]
 }
