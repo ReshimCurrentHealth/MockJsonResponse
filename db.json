@@ -6,7 +6,7 @@
          "img":"pr_heart",
          "value":"150",
          "unit":"bpm",
-         "generatedAt":""
+         "generatedAt":"1:55pm, 09/29/22"
       },
       {
          "factName":"BLOOD_PRESSURE",
@@ -14,7 +14,7 @@
          "img":"blood_drop",
          "value":"125 / 80",
          "unit":"HG/mg",
-         "generatedAt":""
+         "generatedAt":"1:55pm, 09/29/22"
       },
       {
          "factName":"SPO2",
@@ -22,6 +22,14 @@
          "img":"air_whoosh",
          "value":"90",
          "unit":"%",
+         "generatedAt":"1:55pm, 09/29/22"
+      },
+      {
+         "factName":"WEIGHT",
+         "displayName":"Weight",
+         "img":"air_whoosh",
+         "value":"",
+         "unit":"",
          "generatedAt":""
       }
    ]
