@@ -6,6 +6,27 @@
          "value":"150",
          "unit":"bpm",
          "generatedAt":"1:55pm, 09/29/22"
+      },
+      {
+         "factName":"BLOOD_PRESSURE",
+         "displayName":"Blood Pressure",
+         "value":"125 / 80",
+         "unit":"mmhg",
+         "generatedAt":"1:55pm, 09/29/22"
+      },
+      {
+         "factName":"SPO2",
+         "displayName":"SPO2",
+         "value":"90",
+         "unit":"%",
+         "generatedAt":"1:55pm, 09/29/22"
+      },
+      {
+         "factName":"WEIGHT",
+         "displayName":"Weight",
+         "value":"",
+         "unit":"",
+         "generatedAt":""
       }
    ]
 }
