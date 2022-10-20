@@ -13,7 +13,7 @@
          "displayName":"Blood Pressure",
          "img":"blood_drop",
          "value":"125 / 80",
-         "unit":"HG/mg",
+         "unit":"mmhg",
          "generatedAt":"1:55pm, 09/29/22"
       },
       {
