@@ -3,7 +3,6 @@
       {
          "factName":"PULSE_RATE",
          "displayName":"Pulse Rate",
-         "img":"pr_heart",
          "value":"150",
          "unit":"bpm",
          "generatedAt":"1:55pm, 09/29/22"
@@ -11,7 +10,6 @@
       {
          "factName":"BLOOD_PRESSURE",
          "displayName":"Blood Pressure",
-         "img":"blood_drop",
          "value":"125 / 80",
          "unit":"mmhg",
          "generatedAt":"1:55pm, 09/29/22"
@@ -19,7 +17,6 @@
       {
          "factName":"SPO2",
          "displayName":"SPO2",
-         "img":"air_whoosh",
          "value":"90",
          "unit":"%",
          "generatedAt":"1:55pm, 09/29/22"
@@ -27,7 +24,6 @@
       {
          "factName":"WEIGHT",
          "displayName":"Weight",
-         "img":"air_whoosh",
          "value":"",
          "unit":"",
          "generatedAt":""
