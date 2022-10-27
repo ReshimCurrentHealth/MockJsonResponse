@@ -8,11 +8,18 @@
          "generatedAt":"1:55pm, 09/29/22"
       },
       {
-         "factName":"BLOOD_PRESSURE",
+         "factName":"DIASTOLIC_BLOOD_PRESSURE",
          "displayName":"Blood Pressure",
-         "value":"125 / 80",
-         "unit":"mmhg",
-         "generatedAt":"1:55pm, 09/29/22"
+         "value":"80",
+         "unit":"bpm",
+         "generatedAt":"2022-08-19T15:00:49.953Z"
+      },
+      {
+         "factName":"SYSTOLIC_BLOOD_PRESSURE",
+         "displayName":"Blood Pressure",
+         "value":"120",
+         "unit":"bpm",
+         "generatedAt":"2022-08-19T15:00:49.953Z"
       },
       {
          "factName":"SPO2",
