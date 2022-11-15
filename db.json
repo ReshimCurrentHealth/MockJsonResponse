@@ -8,16 +8,9 @@
          "generatedAt":"1:55pm, 09/29/22"
       },
       {
-         "factName":"DIASTOLIC_BLOOD_PRESSURE",
+         "factName":"BLOOD_PRESSURE",
          "displayName":"Blood Pressure",
-         "value":"80",
-         "unit":"bpm",
-         "generatedAt":"2022-08-19T15:00:49.953Z"
-      },
-      {
-         "factName":"SYSTOLIC_BLOOD_PRESSURE",
-         "displayName":"Blood Pressure",
-         "value":"120",
+         "value":"125/80",
          "unit":"bpm",
          "generatedAt":"2022-08-19T15:00:49.953Z"
       },
@@ -32,7 +25,7 @@
          "factName":"WEIGHT",
          "displayName":"Weight",
          "value":"",
-         "unit":"",
+         "unit":"kg",
          "generatedAt":""
       }
    ]
