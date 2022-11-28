@@ -27,6 +27,13 @@
          "value":"",
          "unit":"kg",
          "generatedAt":""
+      },
+      {
+         "factName":"NEWFACT",
+         "displayName":"NEWFACT",
+         "value":"",
+         "unit":"kg",
+         "generatedAt":""
       }
    ]
 }
